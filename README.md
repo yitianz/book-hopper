@@ -7,13 +7,13 @@ For MVP:
 * Human recommendations
 * Buy books from Amazon / book stores
 
-Member and Admin roles:
+Member and Staff roles:
 * User accounts - both
-* Search books - members
+* Search books - both
 * View recommendations - members
-* Make recommendations - admin
+* Make recommendations - staff
 * Manage book clubs - both
-* Recommendation ratings / reviews - members
+* Recommendation ratings / reviews - both
 * Delivery service - both
 
 ## Members
