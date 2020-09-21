@@ -6,6 +6,7 @@ Service that centralizes the delivery, recommendation, and subscription of books
 For MVP:
 * Human recommendations
 * Buy books from Amazon / book stores
+
 Member and Admin roles:
 * User accounts - both
 * Search books - members
