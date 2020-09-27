@@ -17,27 +17,27 @@ Member and Staff roles:
 * Delivery service - both
 
 ## Members
-* Yitian Z
-* So-Hyun L
+* Yitian
+* So-Hyun
 * Vijay 
 
 ## Technology
 * Backend: Java
 * Frontend: Javascript (React)
-* Mobile: React Native?
+* Mobile: React Native
 * Database: PostgreSQL or MongoDB
 * Hosting: Heroku, GCP
 
 ## MEETING NOTES
 ### Meeting 9/13/20
 TODO
-1. * Familiarize with tech stack (Java backend + React frontend) *
-2. * User workflow diagrams *
+1. *** Familiarize with tech stack (Java backend + React frontend) ***
+2. *** User workflow diagrams ***
 3. Design architecture (services)
 4. Figure out classes, data structures, and API endpoints (design patterns)
 5. Assign tasks + start building
 
 MEETING TIME
-* Sunday 7:30pm (Pacific)
-
+* Sunday 5:30pm (Pacific time)
+* Discord voice channel
 
