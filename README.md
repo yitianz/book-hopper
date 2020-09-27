@@ -31,8 +31,8 @@ Member and Staff roles:
 ## MEETING NOTES
 ### Meeting 9/13/20
 TODO
-* 1. Familiarize with tech stack (Java + React) *
-2. User workflow diagram
+1. * Familiarize with tech stack (Java backend + React frontend) *
+2. * User workflow diagrams *
 3. Design architecture (services)
 4. Figure out classes, data structures, and API endpoints (design patterns)
 5. Assign tasks + start building
