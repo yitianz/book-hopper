@@ -21,3 +21,11 @@
 * Book chats
 * Profile
 * Logout
+
+## Book Formats
+* Regular books
+* Ebooks
+* Audiobooks
+* Library books (loans)
+* Magazines
+* Journals
