@@ -28,7 +28,12 @@ Member and Staff roles:
 * Database: PostgreSQL or MongoDB
 * Hosting: Heroku, GCP
 
+## MEETING TIME
+* Sunday 5:30pm (Pacific time)
+* Discord voice channel
+
 ## MEETING NOTES
+
 ### Meeting 9/13/20
 TODO
 1. *** Familiarize with tech stack (Java backend + React frontend) ***
@@ -37,7 +42,12 @@ TODO
 4. Figure out classes, data structures, and API endpoints (design patterns)
 5. Assign tasks + start building
 
-MEETING TIME
-* Sunday 5:30pm (Pacific time)
-* Discord voice channel
+### Meeting 9/27/20
+Agenda
+* PRD
+
+TODO
+* User workflow sketches
+* Get familiar with React 
+
 
